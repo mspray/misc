@@ -1,0 +1,4 @@
+GUI g
+DELAY 700
+STRINGLN "Immich"
+KEY e
